@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Validate arguments
 if [ $# -lt 2 ]
   then
